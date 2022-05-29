@@ -1,0 +1,39 @@
+body {
+    font-family: sans-serif;
+}
+
+h1 {
+    text-align: Arial Narrow, sans-serif;
+}
+.qw{
+    font-family: cursive;
+    font-size: 25px;
+    color: #77023c;
+    text-shadow: 2px 2px 3px black;
+
+    }
+    img{
+        border-radius: 20px;
+        border: 10px double ;
+    }
+    .qw:hover{
+        color: yellow;
+        transition: 3s linear ;
+    }
+
+
+body{
+    background-color: 	#FF9773	;
+
+}
+.we{
+     background-color: #D30068;
+     text-align:Verdana, sans-serif;
+    
+}
+h1{
+    background-color: #E93A90;
+}
+h2{
+
+}
